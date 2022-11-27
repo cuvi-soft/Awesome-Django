@@ -7,7 +7,7 @@
 > A curated list of awesome things related to Django. Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
 
 <div align="center">
-  <img width="400" src="./assets/django-logo.svg" alt="Django logo">
+  <img width="400" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="Django logo">
 </div>
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
