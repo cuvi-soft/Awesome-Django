@@ -5,9 +5,7 @@
   <img width="400" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="Django logo">
 </div>
 
-Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
-sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
-or buying <a rel="sponsored" href="https://django.threadless.com/">official merchandise</a>.
+
 
 
 ## Contents
