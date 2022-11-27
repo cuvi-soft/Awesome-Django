@@ -23,6 +23,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
+  - [Asset Management](#asset-management)
   - [APIs](#apis)
   - [Async](#async)
   - [Caching](#caching)
@@ -96,6 +97,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli/) - A jazzy skin for the Django Admin-Interface.
 - [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
+## Asset Management
+- [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
 
 ### APIs
 <!--lint disable double-link-->
