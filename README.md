@@ -16,7 +16,7 @@
 
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
- - [Authorization](#authorization)
+  - [Authorization](#authorization)
     - [Blog Management](#blog-management)
     - [Boilerplate](#boilerplate)
     - [Caching](#caching)
