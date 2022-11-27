@@ -24,6 +24,13 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
   - [Asset Management](#asset-management)
+  - [Debugging](#debugging)
+  - [Fields](#fields)
+  - [Forms](#forms)
+  - [Model Extensions](#model-extensions)
+  - [RESTful API](#restful-api)
+  - [Tagging](#tagging)
+  - [Translations](#translations)
   - [APIs](#apis)
   - [Async](#async)
   - [Caching](#caching)
@@ -99,6 +106,35 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-suit](https://github.com/darklow/django-suit/) - Modern theme for Django admin interface.
 ## Asset Management
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
+
+## Debugging
+- [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
+
+## Fields
+- [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
+- [django-image-tools](https://github.com/bonsaistudio/django-image-tools/) - A package to handle images in Django.
+- [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django. 
+
+## Forms
+- [django-crispy-forms](https://github.com/maraujop/django-crispy-forms/) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
+
+## RESTful API
+
+*Libraries for developing RESTful APIs.*
+
+- [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
+- [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Swagger Documentation Generator for Django REST Framework
+
+## Model Extensions
+
+- [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
+
+## Tagging
+- [django-taggit](https://github.com/alex/django-taggit/) - Simple tagging for Django.
+
+## Translations
+- [django-rosetta](https://github.com/mbi/django-rosetta/) - Rosetta is a Django application that eases the translation process of your Django projects.
+
 
 ### APIs
 <!--lint disable double-link-->
